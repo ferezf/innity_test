@@ -67,6 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## How to use
 
+Run your Mysql server 
 Import innity_test.sql into your mysql server as innity_test
 Open visual studion code get into program directory innity_test
 Open 2 terminal
