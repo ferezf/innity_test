@@ -1,0 +1,19 @@
+{
+    "buy": ["purchase"],
+    "big": ["great", "large"],
+    "happy": ["joyful", "content", "pleased"],
+    "smart": ["intelligent", "clever", "bright"],
+    "sad": ["unhappy", "downhearted", "depressed"],
+    "fast": ["quick", "speedy", "rapid"],
+    "beautiful": ["gorgeous", "stunning", "attractive"],
+    "kind": ["compassionate", "gentle", "caring"],
+    "funny": ["humorous", "amusing", "comical"],
+    "angry": ["furious", "irate", "enraged"],
+    "quiet": ["silent", "calm", "peaceful"],
+    "brave": ["courageous", "fearless", "valiant"],
+    "simple": ["basic", "plain", "uncomplicated"],
+    "confused": ["bewildered", "perplexed", "baffled"],
+    "tired": ["exhausted", "weary", "fatigued"],
+    "rich": ["wealthy", "affluent", "prosperous"]
+   
+}
