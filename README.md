@@ -68,8 +68,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## How to use
 
 Run your Mysql server 
+
 Import innity_test.sql into your mysql server as innity_test
 Open visual studion code get into program directory innity_test
+
 Open 2 terminal
 
 1. npm run dev
@@ -77,5 +79,13 @@ Open 2 terminal
 
 You should able to access the web application using http://127.0.0.1:8000
 You can either register or use
+
 Username: ferezf
 Password: 12345678
+
+
+![Screenshot 2023-08-22 at 3 16 13 AM](https://github.com/ferezf/innity_test/assets/68048437/9cfb257c-64bb-4ca2-a079-46b4a4f97c3b)
+
+![Screenshot 2023-08-22 at 3 17 44 AM](https://github.com/ferezf/innity_test/assets/68048437/947cfb9b-69e8-4ab1-b7d2-73d3c0e7d30f)
+
+
